@@ -1,2 +1,5 @@
-# eme6356-su23-module3
-  Slide deck for EME6356, Module 3: Learning Analytics (Summer 2023) 
+# EME6356 Module 3: Learning Analytics
+
+Slide deck for **EME6356, Module 3: Learning Analytics** (Summer 2023)
+
+![](img/3-learning-analytics.jpg)
